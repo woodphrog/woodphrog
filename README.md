@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @woodphrog / Ezra (she/they)
+- 👋 Hi, I’m @woodphrog / Ezra
 - 👀 I’m interested in game dev & music production
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on games & music :]
